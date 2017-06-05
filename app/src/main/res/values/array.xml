@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>Debate</item>
+        <item>Economy</item>
+        <item>Immigration</item>
+        <item>Education</item>
+    </string-array>
+    <string-array name="settings_order_by_values">
+        <item>debate</item>
+        <item>economy</item>
+        <item>immigration</item>
+        <item>education</item>
+    </string-array>
+</resources>
